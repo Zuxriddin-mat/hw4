@@ -7,7 +7,6 @@
 
 ### ID: 2110053
 
-```markdown
 # Flutter Welcome Screen App
 
 This Flutter app demonstrates a welcome screen with a quick tutorial shown only on the first launch. It includes multiple screens with user information fetched from an API, stored in SQLite, and displayed from the database.
