@@ -17,13 +17,13 @@ This Flutter app demonstrates a welcome screen with a quick tutorial shown only 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/flutter-welcome-screen.git
+   git clone https://github.com/Zuxriddin-mat/hw4.git
    ```
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd flutter-welcome-screen
+   cd hw4
    ```
 
 3. **Install Dependencies:**
